@@ -1,0 +1,5 @@
+DB_HOST=sql12.freesqldatabase.com
+DB_USER=sql12823180
+DB_PASSWORD=your_real_password
+DB_NAME=sql12823180
+REACT_APP_API_URL=https://your-backend.onrender.com
